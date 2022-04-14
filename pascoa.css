@@ -32,9 +32,8 @@ div{background-color: #4F889E;
        line-height: 500px;
        font-size: 80px;
        font-family: Georgia, 'Times New Roman', Times, serif;
-        width: 82%;
+        width: 400px;
         height: 500px;
-        max-width: 700px;
         margin: auto;
         border-radius: 6px;
         box-shadow: 0.7px 0.7px 5px rgba(0, 0, 0, 0.76);}
